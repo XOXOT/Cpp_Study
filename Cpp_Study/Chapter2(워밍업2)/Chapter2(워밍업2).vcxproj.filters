@@ -15,25 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="입력_1%28숫자%29.cpp">
+    <ClCompile Include="1. TrueAndFalse.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="입력_2.cpp">
+    <ClCompile Include="2. bool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="입력_3(문자).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="출력.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="오버로딩 예제.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="오버로딩.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="입력 문제.cpp">
+    <ClCompile Include="3. 참조자%28Reference%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

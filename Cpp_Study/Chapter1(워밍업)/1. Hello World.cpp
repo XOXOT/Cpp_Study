@@ -10,5 +10,9 @@ int main(void)
 	std::cout << num << ' ' << 'A';
 	std::cout << ' ' << 3.14 << std::endl;
 	return 0;
+
+	//c out
+	//c in
+	//end l(ine)
 }
 
