@@ -154,25 +154,25 @@
     <ClCompile Include="1-1 C타입 구조체.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Car.cpp">
+    <ClCompile Include="2. Car.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CarInline.cpp">
+    <ClCompile Include="3. CarInline.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="FruitSaleSim1.cpp" />
-    <ClCompile Include="RacingInlineMain.cpp">
+    <ClCompile Include="4. FruitSaleSim1.cpp" />
+    <ClCompile Include="3. RacingInlineMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="RacingMain.cpp">
+    <ClCompile Include="2. RacingMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h">
+    <ClInclude Include="2. Car.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClInclude>
-    <ClInclude Include="CarInline.h">
+    <ClInclude Include="3. CarInline.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClInclude>
   </ItemGroup>
