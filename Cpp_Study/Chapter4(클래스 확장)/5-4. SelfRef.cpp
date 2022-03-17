@@ -25,6 +25,8 @@ public:
 int main(void)
 {
 	SelfRef obj(3);
+	SelfRef obj(obj); //복사 생성자
+
 	SelfRef &ref=obj.Adder(2);
 
 	obj.ShowTwoNumber();
