@@ -48,5 +48,8 @@
     <ClCompile Include="4. Mutable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BankingSystemVer04.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
