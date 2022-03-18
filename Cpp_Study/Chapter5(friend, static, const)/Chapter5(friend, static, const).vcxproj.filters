@@ -21,10 +21,31 @@
     <ClCompile Include="1-2. ConstOverloading.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2. MyFriendClass.cpp">
+    <ClCompile Include="0.이동 생성자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0.이동 생성자.cpp">
+    <ClCompile Include="2-1. MyFriendFunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Friend.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3. Static.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1. NeedGlobal.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2. StaticMember.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3. PublicStaticMember.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4. ConstStaticMember.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Mutable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
