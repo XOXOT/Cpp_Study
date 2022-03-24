@@ -36,6 +36,7 @@ class Human
 {
 	char* name;
 	int age;
+
 public:
 	Human(const char* myname, int myage)
 	{

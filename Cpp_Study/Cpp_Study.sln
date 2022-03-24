@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter11(연산자 오버로딩2)", "Chapter11(연산자 오버로딩2)\Chapter11(연산자 오버로딩2).vcxproj", "{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter14(템플릿-2)", "chapter14(템플릿-2)\chapter14(템플릿-2).vcxproj", "{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Debug|x64.ActiveCfg = Debug|x64
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Debug|x64.Build.0 = Debug|x64
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Debug|x86.ActiveCfg = Debug|Win32
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Debug|x86.Build.0 = Debug|Win32
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Release|x64.ActiveCfg = Release|x64
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Release|x64.Build.0 = Release|x64
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Release|x86.ActiveCfg = Release|Win32
-		{D3FCBCAC-64D5-409A-BBBE-4FC8DB8C83F2}.Release|x86.Build.0 = Release|Win32
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Debug|x64.ActiveCfg = Debug|x64
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Debug|x64.Build.0 = Debug|x64
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Debug|x86.Build.0 = Debug|Win32
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Release|x64.ActiveCfg = Release|x64
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Release|x64.Build.0 = Release|x64
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Release|x86.ActiveCfg = Release|Win32
+		{6BC357A6-D72A-4F6B-81CD-D669E33EAB58}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
