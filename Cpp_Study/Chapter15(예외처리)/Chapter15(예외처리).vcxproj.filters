@@ -15,28 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0. vector.cpp">
+    <ClCompile Include="0. UnhandlingException.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1. PointTemplateFriendFunction.cpp">
+    <ClCompile Include="1. HandlingExceptionUseIf.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2. ClassTemplateSpecialization.cpp">
+    <ClCompile Include="2. HandlingExceptionTryCatch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3. ClassTemplatePartialSpecialization.cpp">
+    <ClCompile Include="3. PassException.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4. NonTypeTemplateParam.cpp">
+    <ClCompile Include="4. DiffHandlingPosition.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5. TemplateParamDefaultValue.cpp">
+    <ClCompile Include="5. StackUnwinding.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="6. FunctionTemplateStaticVar.cpp">
+    <ClCompile Include="6. CatchList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="7. ClassTemplateStaticMem.cpp">
+    <ClCompile Include="7-1. ATMSim.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2. ATMSim2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8. CatchFlow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9. BadAlloc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10. ReThrow.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
