@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstring>
 using namespace std;
 
@@ -30,8 +30,8 @@ public:
 
 	void ShowPersonInfo() const
 	{
-		cout<<"ÀÌ¸§: "<<name<<endl;
-		cout<<"³ªÀÌ: "<<age<<endl;
+		cout<<"ì´ë¦„: "<<name<<endl;
+		cout<<"ë‚˜ì´: "<<age<<endl;
 	}
 	
 	~Person()
