@@ -22,7 +22,7 @@ step7.객체포인터 배열  Product * pobj [[100]사용하여 동적할당 sta
 ```
 
 ### <메인화면>
-![Test](https://github.com/XOXOT/Cpp_Study/blob/main/img/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+![Test](https://github.com/XOXOT/Cpp_Study/blob/main/img/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.png)
 
 ### <상품추가>
 ![Test](https://github.com/XOXOT/Cpp_Study/blob/main/img/%EC%83%81%ED%92%88%EC%B6%94%EA%B0%80.png)
