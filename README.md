@@ -19,7 +19,7 @@ ___
 #### 16장 - [형변환 연산자](https://github.com/XOXOT/Cpp_Study/tree/main/Cpp_Study/Chapter16(%ED%98%95%EB%B3%80%ED%99%98%20%EC%97%B0%EC%82%B0%EC%9E%90))
 ___ 
 ## ✍🏻 Test ✍🏻
-#### [🗒Test 파일](https://github.com/XOXOT/Cpp_Study/blob/main/Cpp_Study/Chapter16(%ED%98%95%EB%B3%80%ED%99%98%20%EC%97%B0%EC%82%B0%EC%9E%90)/%ED%8F%89%EA%B0%80.cpp)
+#### [🗒Test 코드파일](https://github.com/XOXOT/Cpp_Study/blob/main/Cpp_Study/Chapter16(%ED%98%95%EB%B3%80%ED%99%98%20%EC%97%B0%EC%82%B0%EC%9E%90)/%ED%8F%89%EA%B0%80.cpp)
 
 ```
 step1.Base class : class Product
